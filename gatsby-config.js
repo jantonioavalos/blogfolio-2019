@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `The 404 Blog`,
-    description: `Crafted for developers , hoping they can learn something valuable out of it.`,
-    author: `@MrNullPointer`,
+    title: `J. Antonio Avalos - Blogfolio`,
+    description: `Portfolio and blog of @jantonioavalos`,
+    author: `@jantonioavalos`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `the404blog`
-      }
+        shortname: `the404blog`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -32,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The404Blog`,
-        short_name: `404Blog`,
+        name: `jantonioavalos blogfolio`,
+        short_name: `jantonioavalos`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#00BCD4`,
@@ -56,8 +56,7 @@ module.exports = {
           },
         },
         // Optional filter to limit indexed nodes
-        filter: (node, getNode) =>
-          node.frontmatter.tags !== 'exempt',
+        filter: (node, getNode) => node.frontmatter.tags !== "exempt",
       },
     },
     {
@@ -81,7 +80,6 @@ module.exports = {
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
-
               classPrefix: "language-",
 
               inlineCodeMarker: null,
