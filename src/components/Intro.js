@@ -13,15 +13,17 @@ function Intro() {
           alt="author-img"
         />
         <h2 className="card-title text-info font-weight-bold">
-          Hey! I'm J. Antonio Avalos
+          J. Antonio Avalos
         </h2>
       </Link>
-      <p className="card-subtitle mt-2">UX Engineer based on Mexico.</p>
+      <p className="card-subtitle mt-2">
+        UX Engineer | Coffee lover and devoted reader.
+      </p>
       <hr />
-      <SocialIcon url="github.com/jantonioavalos" className="mr-4" />
-      <SocialIcon url="twitter.com/jantonioavalos" className="mr-4" />
-      <SocialIcon url="instagram.com/jantonioavalos" className="mr-4" />
-      <SocialIcon url="medium.com/jantonioavalos" className="mr-4" />
+      <SocialIcon url="https://github.com/jantonioavalos" className="mr-4" />
+      <SocialIcon url="https://twitter.com/jantonioavalos" className="mr-4" />
+      <SocialIcon url="https://instagram.com/jantonioavalos" className="mr-4" />
+      <SocialIcon url="https://medium.com/jantonioavalos" className="mr-4" />
     </div>
   )
 }

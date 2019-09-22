@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `the404blog`,
+        shortname: `jantonioavalos`,
       },
     },
     {

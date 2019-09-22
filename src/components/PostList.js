@@ -35,14 +35,14 @@ export default () => {
           timeStamp={node.frontmatter.date}
         />
       ))}
-      <Link
+      {/* <Link
         fade
         className="my-3 float-right text-info"
         to="blog"
         duration={0.5}
       >
         View all my posts →
-      </Link>
+      </Link> */}
     </div>
   )
 }

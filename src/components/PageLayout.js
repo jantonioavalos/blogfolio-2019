@@ -37,7 +37,7 @@ function PageLayout({ children }) {
       <main>{children}</main>
       <footer className={"text-center pt-4 " + theme}>
         <h6>
-          Built with ☕️and 📚by{" "}
+          Built with ☕️ and 📚 by{" "}
           <a href="https://github.com/jantonioavalos" target="_blank">
             @jantonioavalos
           </a>{" "}
