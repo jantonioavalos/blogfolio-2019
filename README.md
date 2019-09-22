@@ -1,4 +1,4 @@
-# The 404 Blog
+# @jantonioavalos Blogfolio
 
 ## Description
-Will Update Soon
+This is a personal website to showcase my work as portfolio and blog.
