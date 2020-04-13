@@ -56,7 +56,7 @@ const Temp = ({ data, pageContext }) => {
               alt="back-icon"
             />
           </AniLink>
-          <span className="display-4 font-weight-bold">
+          <span className="display-4">
             {frontmatter.title}
           </span>
           <span className="font-weight-bold text-muted">

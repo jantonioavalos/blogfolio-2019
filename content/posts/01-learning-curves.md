@@ -5,10 +5,11 @@ title: "5 great teachings about imposter syndrome — my experience with lea
 author: "@jantonioavalos"
 tags: ["imposter syndrome", "learning curves", "teachings"]
 description: "Feel comfortable with being uncomfortable, has been converted in a buzzy pray, although getting that level of confidence isn’t just a loud practice in the mirror, but a process! It requires us to..."
-authorImg: "https://scontent.fgdl4-1.fna.fbcdn.net/v/t1.0-9/68607264_2538087419562579_8482975883261378560_n.jpg?_nc_cat=103&_nc_oc=AQkXTAQPoeufmwy8XrnLtB7XT0qd9zr6XS0vPbfvHNr1r7gODQ1EXwnurOH5gkdJHHs&_nc_ht=scontent.fgdl4-1.fna&oh=c56466acdeb3c90e46720972c358f17b&oe=5DFB1518"
+authorImg: "/static/me-b39a8ed7b80feea12678bab3f04163f6.jpg"
 ---
 
-![img](https://cdn-images-1.medium.com/max/2600/1*lmZ0MB0LEnbvSnSX5PE5Lg.jpeg)“The Internship” movie
+![img](https://cdn-images-1.medium.com/max/2600/1*lmZ0MB0LEnbvSnSX5PE5Lg.jpeg)
+“The Internship” movie
 
 _Feel comfortable with being uncomfortable_, has been converted in a buzzy pray, although **getting that level of confidence isn’t just a loud practice in the mirror, but a process!**
 
@@ -88,5 +89,6 @@ As said before, maybe you need a quick video with the _essentials_ to see things
 
 ---
 
-**Subscribe to my “**[**🎙Essentials Briefs**](https://anchor.fm/essentials)**” to learn in just 3 minutes 🎧 more about Personal Branding, UX Design, and Front-end Development.**
+**Subscribe to “**[**Pitch - Product Design Podcast**](https://anchor.fm/pitch-podcast)**” for short episodes related to communication, leadership and strategy on product design.**
+
 **I’d love to receive your feedback in the comments**

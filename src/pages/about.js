@@ -9,73 +9,21 @@ function About() {
         <title>About | jantonioavalos.com</title>
       </Helmet>
       <div className="container about my-5">
-        <h1 className="font-weight-bold">Hey!! This is J. Antonio Avalos</h1>
-        <h2>UX Engineer | Coffee Lover and Devoted Reader</h2>
-        <h6 className="my-3">
-          I am a creative engineer whose personal goal is to be involved in
-          multi-disciplinary teams to develop solutions, so well designed that
-          people just worry about their craft, being helped to improve their
-          skills.
-        </h6>
-        <h2>My story</h2>
-        <p>
-          Since I was a child I always wanted to understand{" "}
-          <i>how the things work</i> so I used to broke and dissasembly all my
-          toys and (sometimes) re-built them as they were.
-          <br /> <br />
-          That spirit persisted till my first technical degree on{" "}
-          <i>Electronics and Communications</i> where I learned to analize,
-          test, design and build prototypes using hardware.
-          <br /> <br />
-          What I enjoyed the most at studying Electronics was using
-          Microprocessor and code them to do what I needed. So that I decided to
-          study <i>Computer Systems Engineering</i> to know profoundly the world
-          of Software.
-          <br /> <br />
-          Since my first day of college. I got a job as Electronics Technician
-          at a company which had its Engineering Site at the University
-          Facilities. And I grew on it as I was growing as student. After some
-          years as technician, I was promoted to the R&D Department as an
-          Embedded Systems Engineer, where I worked in projects for big
-          companies doing software and some hardware prototypes.
-          <br /> <br />
-          And, as part of my last two years in collegue. I was accepted by Intel
-          Corporation as Intern. I worked with the team of System Validation,
-          doing some debug in platforms and later I worked with the System
-          Design Team, where I was in charge of the Assets Life Cycle and
-          incorporated some Quality Assurance Process.
-          <br /> <br />
-          So, after tasting the world of Hardware in a small local company and
-          later in a global corporation. I wanted to work as an ENgineer in the
-          world of software. So, I joined NXP Semiconductors in the Web Team.
-          Here I was Web Publisher in charge of some HW Applications pages, then
-          I helped with the redesign of the whole Support Area. And finally got
-          promoted to the React Development Team, where during a year I was part
-          of the deployment of several SPAs tools used by our customers to find
-          the correct resources for their designs.
-          <br /> <br />
-          One year and a half later, I decided to join the User Experience
-          Design team. This pushed my sense of nothing can be useful if it's not
-          human-centered designed. People and technology should be together
-          since the strategy of a product or service to produce a business so
-          they should be together also in the Design and Development phases.
-          <br /> <br />
-          Now, I continue working in this team. I have got several
-          certifications on UX Design, even by the Nielsen Norman Group. So,
-          today besides working for NXP, I'm working in being a good mentor for
-          future generations, supporting global initiatives as Technovation
-          Girls (which help little girls to start in the tech world) and also I
-          want to be a professional speaker being mentored by the Toastmasters
-          family in Mexico.
-          <br /> <br />
-          That's a simplified summary of me. Hope you enjoy the study cases,
-          blog posts and podcast show notes available in this site. Looking
-          forward to meet you and share ideas together.
-          <br />
-          <br /> <br />
-          Have a great day,
-          <br />
-          J. Antonio Avalos
+        <h1 className="font-weight-bold">J. Antonio Avalos</h1>
+        <h2>Product Designer | UX Engineer</h2>
+        <h3 className="mt-4">Hey there!</h3>
+        <p>       
+          I'm Juan Antonio, an engineer in UX living at Guadalajara. Since I was little I always wanted to open my toys to see how they worked, even sometimes they wouldn't work again...
+        </p><p>
+          That's why when I grew up I studied a <em>technologist degree</em> in electronics, so I could build my own devices. But the more I created projects the more I liked programming -the soul of my inventions. So at university, I went for computer systems engineering.
+        </p><p>
+          I started working in the tech industry since I began college. It helped me to realize how the real world was and squeeze my teacher's experience. It was in the middle of this environment that I ran into the question <strong>"Does this software really people's work easier or it complicates more their life?"</strong>.
+        </p><p>
+          After much thought, it was while creating a desktop app when I discovered a UX design online course, and I fell in love with it. Because I understood it wasn't device building or software programming but <a href="https://platzi.com/@jantonioavalos/" target="_blank">self-learning</a> and strategic problem-solving what really filled me. <strong>And, what is more complex than finding a person's real problem and building a multidisciplinary team solution that can even improve his or her talents?!</strong> 
+        </p><p>
+          Today, in the middle of coffee and books at my desk, I continue working in the hardware industry but I've been focusing my career on product design and UX engineering so I can become a UX Architect, who lead the transformation of people's needs into well-designed solutions.
+        </p><p>
+          So, that's my story. What's yours? <a href="mailto:hey@jantonioavalos.com">Contact me</a> and I hope we can meet soon at any social activity on technology and design. Or even more interesting, at a new project proposal.          
         </p>
       </div>
     </Page>

@@ -35,8 +35,8 @@ module.exports = {
         name: `jantonioavalos blogfolio`,
         short_name: `jantonioavalos`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#00BCD4`,
+        background_color: `#F0F0F0`,
+        theme_color: `#065195`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },

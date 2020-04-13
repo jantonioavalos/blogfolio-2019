@@ -41,7 +41,7 @@ function PageLayout({ children }) {
           <a href="https://github.com/jantonioavalos" target="_blank">
             @jantonioavalos
           </a>{" "}
-          | 2019
+          | 2020
         </h6>
         <br />
       </footer>

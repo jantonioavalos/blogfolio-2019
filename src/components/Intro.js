@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { SocialIcon } from "react-social-icons"
+import me from "../images/me.jpg"
 
 function Intro() {
   return (
@@ -9,15 +10,20 @@ function Intro() {
         <img
           width="250"
           className="rounded-circle author-img mx-4 mb-4"
-          src="https://scontent.fgdl4-1.fna.fbcdn.net/v/t1.0-9/68607264_2538087419562579_8482975883261378560_n.jpg?_nc_cat=103&_nc_oc=AQkXTAQPoeufmwy8XrnLtB7XT0qd9zr6XS0vPbfvHNr1r7gODQ1EXwnurOH5gkdJHHs&_nc_ht=scontent.fgdl4-1.fna&oh=c56466acdeb3c90e46720972c358f17b&oe=5DFB1518"
-          alt="author-img"
+          src= {me}
+          alt="jantonioavalos-picture"
         />
         <h2 className="card-title text-info font-weight-bold">
           J. Antonio Avalos
         </h2>
       </Link>
       <p className="card-subtitle mt-2">
-        UX Engineer | Coffee lover and devoted reader.
+        Product Designer | UX Engineer
+      </p>
+      <p className="small mt-2">
+        Engineer with 3+ years of collaboration with distributed teams in web solutions by user-centered design. 
+        Translating business needs into requirements, communicating proposals to product stakeholders from research and data analysis to create testable prototypes in agile environments. 
+        With a track record of self-learning to build and present solutions by process analysis.
       </p>
       <hr />
       <SocialIcon url="https://github.com/jantonioavalos" className="mr-4" />
