@@ -1,5 +1,7 @@
 # @jantonioavalos Blogfolio
 
-This is a personal website to showcase my work as portfolio and blog.
+This is a (work-in-progress) personal website to showcase my work as portfolio and blog.
 
-Know more about me and my work in [jantonioavalos.com](https://jantonioavalos.com)
+![Blogfolio Screenshot](https://i.imgur.com/lo4rxuo.png)
+
+Know more about me and my work in [my UX portfolio](https://uxfol.io/jantonioavalos)
